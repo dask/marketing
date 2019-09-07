@@ -4,7 +4,7 @@ Communication Channels
 Currently the Dask project communicate with the general public through a few
 different media:
 
-1.  The twitter account `@dask_dev <https://twitter.com/dask_dev`_
+1.  The twitter account `@dask_dev <https://twitter.com/dask_dev>`_
 2.  The blog `blog.dask.org <https://blog.dask.org>`_
 
 Twitter

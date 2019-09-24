@@ -12,7 +12,7 @@ and we thank you for your efforts in communicating about the project.
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    tone.rst

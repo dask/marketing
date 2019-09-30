@@ -7,10 +7,6 @@ For colors we typically choose from somewhere within the palette defined by the
 Dask logo itself, which has an orange gradient.  In particular, we commonly
 choose the following colors:
 
--  #FDA061
--  #ECB172
--  #D67548
+.. image:: images/dask-colors.svg
+   :alt: Dask colors #FDA061 #ECB172 #D67548
 
-.. admonition:: TODO
-
-   This page should be far more visual than it is.

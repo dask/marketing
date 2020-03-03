@@ -10,3 +10,8 @@ choose the following colors:
 .. image:: images/dask-colors.svg
    :alt: Dask colors #FDA061 #ECB172 #D67548
 
+For more involved diagrams we often choose from both primary colors and secondary
+colors:
+
+.. image:: images/dask-branding-guidelines.png
+   :alt: Dask branding guidelines

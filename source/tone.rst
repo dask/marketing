@@ -46,7 +46,7 @@ while genuine, and informative while light-hearted.  In particular ...
     and among the project that are adjacent to Dask
 
     *Next, we apply the new dask.dataframe.foo operation (recently contributed
-    by* `Alice Chen <http://example.com>`_
+    by* `Alice Chen <http://example.com>`_)
 
 For non-official Dask communications, either by individuals or associated
 corporations we can make no expectations of tone.

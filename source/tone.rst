@@ -39,7 +39,7 @@ while genuine, and informative while light-hearted.  In particular ...
     reputation.
 
     *While running this benchmark we actually found that Dask performed worse
-    for one part of it.  That lead us to fix a bug (see PR #1234) and now
+    for one part of it.  That led us to fix a bug (see PR #1234) and now
     things are running smoothly again.*
 
 5.  We endeavor to highlight the work of others, both among our own contributors,

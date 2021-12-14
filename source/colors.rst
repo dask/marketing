@@ -9,7 +9,7 @@ Logos
 Logos for Dask are available at :doc:`logos`. The Dask logo is made up of two components:
 The Logo Mark and the Word Mark, which make up the Horizontal Logo:
 
-.. image:: images/logo-examples.pdf
+.. image:: images/logo-examples.png
    :alt: Horizontal Logo (top) and Logo Mark (bottom)
 
 Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already
@@ -17,17 +17,17 @@ present, or as an avatar when “Dask” appears alongside the Logo Mark in plai
 
 In layout, make sure there is enough clearspace on all sides of the logo by using the x-height:
 
-.. image:: images/logo-clearspace.pdf
+.. image:: images/logo-clearspace.png
    :alt: Horizontal Logo with x-height marked to the lower-left, upper-right, and center-right.
 
 When resizing the Horizontal Logo or Logo Mark, the minimum widths should be 75 pixels (1-inch)
 and 20 pixels, respectively, to ensure legibliity
 
-.. image:: images/logo-size
+.. image:: images/logo-size.png
    :alt: Examples of three resized versions of the Horizontal Logo (left) and Logo Mark (right) in descending size order.
 
 There are a number of logo variations to ensure adequate conttrast with the background color
-.. image:: images/logo-variations
+.. image:: images/logo-variations.png
    :alt: Two columns and three rows of variations of the Horizontal Logo.
 
 What *not* to do to the logo:
@@ -38,7 +38,7 @@ What *not* to do to the logo:
     5. Add strokes or outlines
     6. Place on an unapproved background color
    
-.. image:: images/incorrect-logo-usage.pdf
+.. image:: images/incorrect-logo-usage.png
    :alt: " "
 
 Typography
@@ -48,7 +48,7 @@ for H-level titles and longform body copy. Roboto Mono should be used when
 displaying syntax/code snippets or as a labeling device for charts, graphics,
 and specialty layout components.
 
-.. image:: images/typography-examples.pdf
+.. image:: images/typography-examples.png
 
 Colors
 ------
@@ -57,7 +57,7 @@ itself. You can use the following grid to select color for text,
 graphical elements, and general layout. Note that text should meet a "Pass"
 qualification to meet AA (or AAA) requirements.
 
-.. figure:: images/dask-color-palette.jpeg
+.. figure:: images/dask-color-palette.png
    :alt: Primary (top) and secondary (bottom) color palettes, each with three rows
    for the hex codes, text on a light background, and text on a dark background.
 

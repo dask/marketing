@@ -1,3 +1,5 @@
+> ⚠️ This site is now archived. See https://www.dask.org/style-guide for latest marketing guidance.
+
 Dask Marketing
 ==============
 
